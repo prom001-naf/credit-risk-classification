@@ -102,6 +102,6 @@ This analysis provides a **data-driven approach** to **credit risk prediction**,
 - Conducting additional validation using **real-world loan data**.
 
 ---
-This report (inside of the Credit-Risk folder) is part of the **Credit Risk Analysis project**, providing insights into **loan approval decisions** using machine learning. 🚀
+This report (inside of the Credit-Risk folder) is part of the **Credit Risk Analysis project**, providing insights into **loan approval decisions** using machine learning.
 
 
